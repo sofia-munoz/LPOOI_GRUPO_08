@@ -1,0 +1,5 @@
+c:\users\sofia muñoz\documents\visual studio 2010\Projects\LPOOI_GRUPO_08\ClaseBase\bin\Debug\ClaseBase.dll
+c:\users\sofia muñoz\documents\visual studio 2010\Projects\LPOOI_GRUPO_08\ClaseBase\bin\Debug\ClaseBase.pdb
+c:\users\sofia muñoz\documents\visual studio 2010\Projects\LPOOI_GRUPO_08\ClaseBase\obj\Debug\ClaseBase.dll
+c:\users\sofia muñoz\documents\visual studio 2010\Projects\LPOOI_GRUPO_08\ClaseBase\obj\Debug\ClaseBase.pdb
+C:\Users\Sofia Muñoz\documents\visual studio 2010\Projects\LPOOI_GRUPO_08\ClaseBase\obj\Debug\ClaseBase.csprojResolveAssemblyReference.cache
